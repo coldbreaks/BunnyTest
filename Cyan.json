@@ -1,0 +1,366 @@
+{
+  "name": "Vendetta Cyan v1.2.3",
+  "description": "An Amoled theme based on Vendetta Cyan color.",
+  "authors": [
+    {
+      "name": "Taki_Shiwa",
+      "id": "466968658997149706"
+    }
+  ],
+  "semanticColors": {
+    "ACTIVITY_CARD_BACKGROUND": [
+      "#fb4934",
+      "#9d0006"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#0042425a",
+      "#0042425a"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#0042425a",
+      "#0042425a"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#0042425a",
+      "#0042425a"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#070707",
+      "#070707"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#00aaaa",
+      "#00aaaa"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#1aeaea9a",
+      "#1aeaea9a"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#009999",
+      "#009999"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#0042425a",
+      "#0042425a"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#1aeaea6a",
+      "#1aeaea6a"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#070707",
+      "#070707"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#66cccc",
+      "#66cccc"
+    ],
+    "CHANNEL_ICON": [
+      "#009999",
+      "#009999"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#9cf0f0",
+      "#9cf0f0"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#121212",
+      "#121212"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000",
+      "#000000"
+    ],
+    "CHAT_BORDER": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "DEPRECATED_CARD_BG": [
+      "#3ccccc40",
+      "#9cf0f040"
+    ],
+    "DEPRECATED_CARD_EDITABLE_BG": [
+      "#3ccccc4d",
+      "#9cf0f04d"
+    ],
+    "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "DEPRECATED_STORE_BG": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "DEPRECATED_TEXT_INPUT_BG": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER": [
+      "#0000004d",
+      "#0000004d"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+      "#020202",
+      "#020202"
+    ],
+    "DEPRECATED_TEXT_INPUT_PREFIX": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
+      "#00424280",
+      "#00424280"
+    ],
+    "ELEVATION_HIGH": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "ELEVATION_LOW": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "ELEVATION_MEDIUM": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "ELEVATION_STROKE": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "FOCUS_PRIMARY": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
+      "#001f1fcc",
+      "#001f1fcc"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#001f1fe6",
+      "#001f1fe6"
+    ],
+    "GUILD_HEADER_TEXT_SHADOW": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "HEADER_PRIMARY": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "HEADER_SECONDARY": [
+      "#55bbbb",
+      "#55bbbb"
+    ],
+    "INFO_DANGER_BACKGROUND": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "INFO_DANGER_FOREGROUND": [
+      "#248282",
+      "#248282"
+    ],
+    "INFO_DANGER_TEXT": [
+      "#fb4934",
+      "#9d0006"
+    ],
+    "INFO_HELP_BACKGROUND": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "INFO_HELP_FOREGROUND": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "INFO_HELP_TEXT": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "INFO_POSITIVE_BACKGROUND": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "INFO_POSITIVE_FOREGROUND": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "INFO_POSITIVE_TEXT": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "INFO_WARNING_BACKGROUND": [
+      "#3ccccc",
+      "#9cf0f0"
+    ],
+    "INFO_WARNING_FOREGROUND": [
+      "#000000",
+      "#000000"
+    ],
+    "INFO_WARNING_TEXT": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#b3cbdc",
+      "#b3cbdc"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#2a5c5b",
+      "#2a5c5b"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#9cf0f0",
+      "#9cf0f0"
+    ],
+    "LOGO_PRIMARY": [
+      "#66cccc",
+      "#009999"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#0042425a",
+      "#0042425a"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#070707",
+      "#070707"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#0042425a",
+      "#0042425a"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#00000000",
+      "#00000000"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#001f1f",
+      "#001f1f"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#fb4934",
+      "#9d0006"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#66cccc",
+      "#009999"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#3ccccc",
+      "#3ccccc"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#9cf0f0",
+      "#9cf0f0"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXTBOX_MARKDOWN_SYNTAX": [
+      "#6cd7eb",
+      "#6cd7eb"
+    ],
+    "TEXT_DANGER": [
+      "#fb4934",
+      "#9d0006"
+    ],
+    "TEXT_LINK": [
+      "#b3c5fe",
+      "#7580c0"
+    ],
+    "TEXT_LINK_LOW_SATURATION": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "TEXT_MUTED": [
+      "#80dddd",
+      "#80dddd"
+    ],
+    "TEXT_NORMAL": [
+      "#aaffff",
+      "#aaffff"
+    ],
+    "TEXT_POSITIVE": [
+      "#3ccccc",
+      "#3ccccc"
+    ],
+    "TEXT_WARNING": [
+      "#fb4934",
+      "#9d0006"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#00424280",
+      "#00424280"
+    ],
+    "BACKGROUND_MOBILE_TERTIARY": [
+      "#000000",
+      "#000000"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#009999",
+    "PRIMARY_MEDIUM": "#3ccccc",
+    "PRIMARY_LIGHT": "#aaffff",
+    "BACKGROUND_DARK": "#000000",
+    "BACKGROUND_MEDIUM": "#001f1f",
+    "BACKGROUND_LIGHT": "#070707",
+    "ACCENT_DARK": "#004242",
+    "ACCENT_MEDIUM": "#66cccc",
+    "ACCENT_LIGHT": "#9cf0f0",
+    "DANGER_DARK": "#9d0006",
+    "DANGER_MEDIUM": "#fb4934",
+    "DANGER_LIGHT": "#ff6961"
+  }
+}
