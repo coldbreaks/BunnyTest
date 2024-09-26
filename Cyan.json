@@ -350,17 +350,18 @@
     ]
   },
   "colors": {
-    "PRIMARY_DARK": "#009999",
-    "PRIMARY_MEDIUM": "#3ccccc",
-    "PRIMARY_LIGHT": "#aaffff",
+    "PRIMARY_DARK": "#0088ff",
+    "PRIMARY_MEDIUM": "#33bbff",
+    "PRIMARY_LIGHT": "#99eeff",
     "BACKGROUND_DARK": "#000000",
-    "BACKGROUND_MEDIUM": "#001f1f",
+    "BACKGROUND_MEDIUM": "#001a33",
     "BACKGROUND_LIGHT": "#070707",
-    "ACCENT_DARK": "#004242",
-    "ACCENT_MEDIUM": "#66cccc",
-    "ACCENT_LIGHT": "#9cf0f0",
+    "ACCENT_DARK": "#004080",
+    "ACCENT_MEDIUM": "#66ccff",
+    "ACCENT_LIGHT": "#99ddff",
     "DANGER_DARK": "#9d0006",
     "DANGER_MEDIUM": "#fb4934",
     "DANGER_LIGHT": "#ff6961"
+}
   }
 }
